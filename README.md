@@ -19,10 +19,10 @@ All these performed under the **TensorFlow 2.0** environment.
 
 ## Results
 #### Historical and Predicted
-![historical and predicted]('historical_and_predicted.png')
+![historical and predicted](https://github.com/maxxytjr/LSTMPredictiveMaintenance/blob/master/historical_and_predicted.png)
 
 #### Historical, Predicted and Actual
-![historical, predicted and actual]('historical_predicted_actual.png')
+![historical, predicted and actual](https://github.com/maxxytjr/LSTMPredictiveMaintenance/blob/master/historical_predicted_actual.png)
 
 #### Actual and Predicted (Close up)
-![actual and predicted]('actual_predicted.png')
+![actual and predicted](https://github.com/maxxytjr/LSTMPredictiveMaintenance/blob/master/actual_predicted.png)
